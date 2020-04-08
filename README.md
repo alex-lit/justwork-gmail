@@ -8,7 +8,7 @@
 
 Содержимое
 
-![mail](https://raw.githubusercontent.com/alex-lit/justwork-gmail/master/images/2.png)
+![mail](https://raw.githubusercontent.com/alex-lit/justwork-gmail/master/images/3.png)
 
 Разбиение на компоненты предварительное, как правило со временем компонент
 разрастается и разделяется на несколько более мелких.
